@@ -1,0 +1,1 @@
+Working model of a traffic light system that changes the signal timer according to the amount of traffic congestion. I used Tensorflow to create a Convolutional Neural Network with 5000 images of toy car models, we created a physical system using Arduino to show the working of this image recognition system.
